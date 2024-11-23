@@ -12,7 +12,7 @@ title                    : "Joshua Atiba | Materials Researcher"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://atibajoshua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jay07892.github.io/atibajoshua.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
