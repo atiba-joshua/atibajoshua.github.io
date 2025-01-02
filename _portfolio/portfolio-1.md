@@ -1,6 +1,6 @@
 ---
 title: "DEVELOPMENT OF AN ALUMINIUM MATRIX COMPOSITE MATERIAL USING HYBRID SUSTAINABLE MATERIALS (Completed)"
-excerpt: "Composite design 1<br/><img src='/images/500x300.png'>"
+excerpt: "Composite design 1<br/><img src='/images/Picture1.png'>"
 collection: Undergraduate Project
 ---
 
