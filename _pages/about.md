@@ -14,6 +14,8 @@ With over fifteen peer-reviewed publications, my work focuses on developing allo
 I am open to collaborations in materials research, particularly in corrosion science, sustainable composites, and advanced material applications. Let’s work together to drive impactful advancements in this exciting field!
 
 
+
+
 Research Interest
 ======
 • Fiber-Reinforced Polymers    
@@ -27,6 +29,8 @@ Research Interest
 •	Adsorption and Surface Chemistry
 
 • Electrodeposition Techniques                                    
+
+
 
 
 Professional Membership
