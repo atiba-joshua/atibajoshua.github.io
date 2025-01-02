@@ -4,7 +4,7 @@ collection:  2024 International Conference on Science, Engineering and Business 
 type: Conference Proceeding
 permalink: /talks/SEB4SDG1
 venue: "Bells University of Technology"
-date: 2024-10
+date: 2024-04-02
 location: "Ota, Nigeria"
 ---
 
