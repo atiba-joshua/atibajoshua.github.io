@@ -2,7 +2,7 @@
 title: "Effect of Palm Kernel Shell reinforcement on the mechanical and corrosion properties of AA7075 aluminium alloy"
 collection: 7th International Conference on Engineering for a Sustainable World (ICESW 2023)
 type: "Conference Proceedings"
-permalink: /talks/ICESW 2023
+permalink: /talks/ICESW2023
 venue: "Covenant University, Mechanical Engineering Dept."
 date: 2023-11-27
 location: "Ota, Nigeria"
