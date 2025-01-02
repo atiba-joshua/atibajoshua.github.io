@@ -17,9 +17,14 @@ I am open to collaborations in materials research, particularly in corrosion sci
 Research Interest
 ======
 • Fiber-Reinforced Polymers    
+
 •	Sustainable Composites Development
+
 •	Nanocomposites for Advanced Applications
+
 • Corrosion Science and Prevention                                
+
 •	Adsorption and Surface Chemistry
+
 • Electrodeposition Techniques                                    
 
