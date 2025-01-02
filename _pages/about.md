@@ -28,3 +28,13 @@ Research Interest
 
 • Electrodeposition Techniques                                    
 
+
+Professional Membership
+======
+• National Institution of Professional Engineers and Scientists (NIPES) (Associate)  
+
+• Institution of Mechanical Engineers (AMIMECHE) 
+
+• Nigerian Institute of Mechanical Engineers (NiMechE)
+
+ 
